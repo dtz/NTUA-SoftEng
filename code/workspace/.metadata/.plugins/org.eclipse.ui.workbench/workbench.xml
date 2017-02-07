@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="58" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="60" y="60">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="126" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="141" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="103" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="206" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1398097711825" focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Proxy.java" partName="Proxy.java" path="C:/Users/Dimitris/Desktop/SoftEng/sipproxy/gov/nist/sip/proxy/Proxy.java" title="Proxy.java" tooltip="sipproxy/gov/nist/sip/proxy/Proxy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/sipproxy/gov/nist/sip/proxy/Proxy.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="38830" selectionTopPixel="18660"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
+<columnWidths org.eclipse.ui.ide.allSeverityField="400" org.eclipse.ui.ide.locationField="120" org.eclipse.ui.ide.markerType="120" org.eclipse.ui.ide.pathField="160" org.eclipse.ui.ide.resourceField="120"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets">
+<viewState>
+<entry expansion="false" extent="20" maximum="100" minimum="0" pinned="false" value="0">&#x0A;<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+<entry selection="0"/>
+</entry>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProgressView" partName="Progress">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" showCategories="true"/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.AllMarkersView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+<view id="org.eclipse.wst.server.ui.ServersView" ratio="0.3"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" ratio="0.3"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ProgressView" ratio="0.29901424"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6fa41b4" ratio="0.749499" ratioLeft="748" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25091672" ratioLeft="479" ratioRight="1430" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6992126" ratioLeft="444" ratioRight="191" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.AllMarkersView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.69959944" ratioLeft="524" ratioRight="225" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@72aad2bf" ratio="0.7491785" ratioLeft="684" ratioRight="229" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sipproxy/gov/nist/sip/proxy/Proxy.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/Global.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/AuthenticationSplash.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/BlockedList.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/BlockManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/DatabaseServer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/FavoriteContact.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/FavoriteList.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/FavoriteManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/ForwardCalls.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/ForwardManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/GuiManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/LoginUser.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/MenuBar.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/PolicyList.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/PolicyManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/RegisterUser.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/imp/MenuBar.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/SipCommunicator-Fall05/sip-communicator.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/sipproxy/gov/nist/sip/proxy/configuration/configuration.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SipCommunicator-Fall05/net/java/sip/communicator/common/NetworkAddressManager.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sipproxy/gov/nist/sip/proxy/CallEnd.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sipproxy/gov/nist/sip/proxy/CallStart.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/sipproxy/gov/nist/sip/proxy/BillingServer.java"/>
+</editors>
+<item historyLabel="BlockedList.java" index="3">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="BlockManager.java" index="4">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="DatabaseServer.java" index="5">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="FavoriteContact.java" index="6">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="FavoriteList.java" index="7">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="FavoriteManager.java" index="8">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="ForwardCalls.java" index="9">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="ForwardManager.java" index="10">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Global.java" index="1">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="GuiManager.java" index="11">
+<position/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="LoginUser.java" index="12">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="MenuBar.java" index="13">
+<position info="not_deleted" x="3043" y="0"/>
+</item>
+<item historyLabel="LoginUser.java" index="12">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="PolicyList.java" index="14">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="LoginUser.java" index="12">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="PolicyManager.java" index="15">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="RegisterUser.java" index="16">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="MenuBar.java" index="17">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="GuiManager.java" index="11">
+<position info="not_deleted" x="3043" y="0"/>
+</item>
+<item historyLabel="MenuBar.java" index="17">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="AuthenticationSplash.java" index="2">
+<position info="not_deleted" x="3049" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="sip-communicator.xml" index="18">
+<position info="not_deleted" x="1303" y="0"/>
+</item>
+<item historyLabel="configuration.xml" index="19">
+<position info="not_deleted" x="133" y="0"/>
+</item>
+<item historyLabel="sip-communicator.xml" index="18">
+<position info="not_deleted" x="1303" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="118" y="0"/>
+</item>
+<item historyLabel="NetworkAddressManager.java" index="20">
+<position info="not_deleted" x="12552" y="0"/>
+</item>
+<item historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="38830" y="0"/>
+</item>
+<item historyLabel="CallEnd.java" index="21">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="CallStart.java" index="22">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="CallEnd.java" index="21">
+<position info="not_deleted" x="372" y="0"/>
+</item>
+<item historyLabel="BillingServer.java" index="23">
+<position info="not_deleted" x="3341" y="0"/>
+</item>
+<item historyLabel="CallEnd.java" index="21">
+<position info="not_deleted" x="372" y="0"/>
+</item>
+<item historyLabel="CallStart.java" index="22">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="CallEnd.java" index="21">
+<position info="not_deleted" x="372" y="0"/>
+</item>
+<item active="true" historyLabel="Proxy.java" index="0">
+<position info="not_deleted" x="38830" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BillingServer.java" tooltip="sipproxy/gov/nist/sip/proxy/BillingServer.java">
+<persistable path="/sipproxy/gov/nist/sip/proxy/BillingServer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CallStart.java" tooltip="sipproxy/gov/nist/sip/proxy/CallStart.java">
+<persistable path="/sipproxy/gov/nist/sip/proxy/CallStart.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CallEnd.java" tooltip="sipproxy/gov/nist/sip/proxy/CallEnd.java">
+<persistable path="/sipproxy/gov/nist/sip/proxy/CallEnd.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NetworkAddressManager.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/common/NetworkAddressManager.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/common/NetworkAddressManager.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="configuration.xml" tooltip="sipproxy/gov/nist/sip/proxy/configuration/configuration.xml">
+<persistable path="/sipproxy/gov/nist/sip/proxy/configuration/configuration.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="sip-communicator.xml" tooltip="SipCommunicator-Fall05/sip-communicator.xml">
+<persistable path="/SipCommunicator-Fall05/sip-communicator.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AuthenticationSplash.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/AuthenticationSplash.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/AuthenticationSplash.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GuiManager.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/GuiManager.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/GuiManager.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MenuBar.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/imp/MenuBar.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/imp/MenuBar.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegisterUser.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/RegisterUser.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/RegisterUser.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PolicyManager.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/PolicyManager.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/PolicyManager.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PolicyList.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/PolicyList.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/PolicyList.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MenuBar.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/MenuBar.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/MenuBar.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoginUser.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/LoginUser.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/LoginUser.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Global.java" tooltip="SipCommunicator-Fall05/net/java/sip/communicator/gui/Global.java">
+<persistable path="/SipCommunicator-Fall05/net/java/sip/communicator/gui/Global.java"/>
+</file>
+</mruList>
+</workbench>
